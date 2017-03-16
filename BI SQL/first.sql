@@ -1,0 +1,5 @@
+SELECT
+WHERE
+FROM
+TRIM("fega", 2)
+LTRIM()
